@@ -53,4 +53,6 @@ Session.vim
 /clients/
 /nodes/
 /cookbooks/
+
+/site-cookbooks/vdbench/files/default/vdbench*.zip
 /vendor/
