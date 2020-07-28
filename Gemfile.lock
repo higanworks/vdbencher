@@ -34,7 +34,7 @@ GEM
     hashie (2.1.2)
     highline (1.6.21)
     ipaddress (0.8.0)
-    json (1.8.1)
+    json (2.3.1)
     kitchen-vagrant (0.15.0)
       test-kitchen (~> 1.0)
     knife-zero (1.0.0)
